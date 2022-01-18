@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Taschenrechner: ");
+Console.Write("Taschenrechner: ");
 string ab = Console.ReadLine();
 
 // Sucht -,+,* o. / , wenn es exestiert komm ein Wert von 0 oder mehr raus
